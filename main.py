@@ -1,3 +1,6 @@
+#DAY 3 ------PROJECT 1------- Vegetable Market Price Scraping 
+
+
 import os
 import requests
 import json
